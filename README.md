@@ -1,12 +1,12 @@
 # nodemail-app
-<!-- #Try this node script to send multiple email at one time and also can use in email marketing and business.    -->
+<!-- #Try this node script to send multiple emails at one time and also can be used in email marketing and business.    -->
 The Nodemail App is a versatile node script designed to streamline the process of sending multiple emails simultaneously. With its comprehensive features, this script is ideal for both email marketing campaigns and business communications.
 
-With Nodemail App, users can effortlessly send bulk emails without the need for manual intervention. It provides a convenient and efficient solution for businesses, organizations, and individuals who require a reliable method to reach a large audience or customer base.
+With the Nodemail App, users can effortlessly send bulk emails without the need for manual intervention. It provides a convenient and efficient solution for businesses, organizations, and individuals who require a reliable method to reach a large audience or customer base.
 
 This powerful node script offers a user-friendly interface that simplifies the setup and configuration process. Users can easily define the email recipients, subject, content, and attachments, allowing for personalized and engaging email campaigns.
 
-Nodemail App also supports various customization options, enabling users to tailor the appearance and structure of their emails. Users can incorporate dynamic content, merge fields, and personalized greetings to create a more personalized and targeted communication.
+The Nodemail App also supports various customization options, enabling users to tailor the appearance and structure of their emails. Users can incorporate dynamic content, merge fields, and personalized greetings to create more personalized and targeted communication.
 
 Furthermore, this script incorporates advanced email deliverability features to ensure that emails reach their intended recipients' inboxes. It leverages authentication protocols like SPF, DKIM, and DMARC to enhance email security and increase the chances of successful email delivery.
 
